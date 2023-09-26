@@ -4,8 +4,10 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
 
-  * Desenvolver um projeto com o codinome `All For One` em que praticará todos os conceitos de SQL já ensinados até aqui usando o banco de dados Northwind.
+  * Você receberá planilhas não normalizadas que deverão ser normalizadas e populadas em um banco de dados para que você possa executar queries com o intuito de encontrar as informações solicitadas.
   * Verificar se eu era capaz de:
+    * Normalizar planilhas.
+    * Gerar um banco de dados.
     * Escrever queries para SQL.
 </details>
 <details>
